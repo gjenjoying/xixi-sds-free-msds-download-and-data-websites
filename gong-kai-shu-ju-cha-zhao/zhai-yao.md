@@ -14,7 +14,7 @@
 
 | 名称 | 网址 | 备注 |
 | :--- | :--- | :--- |
-| **PubChem** | [https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/) 或 https://pubchem.ncbi.nlm.nih.gov/search/\#collection=compounds&query\_type=text | 美国卫生及人类服务部下的国立卫生研究院维护的网站，收录了507个权威的数据源，超过4800万成分/物质的数据。 |
+| **PubChem** | [https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/)  [https://pubchem.ncbi.nlm.nih.gov/search](https://pubchem.ncbi.nlm.nih.gov/search/#collection=compounds&query_type=text) | 美国卫生及人类服务部下的国立卫生研究院维护的网站，收录了507个权威的数据源，超过4800万成分/物质的数据。 |
 |  |  |  |
 
 
