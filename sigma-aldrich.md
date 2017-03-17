@@ -4,7 +4,8 @@
 
 查询方法：
 
-1. 右上角搜索框查询，如下图
+1. 右上角搜索框查询，如下图![](/assets/sigma-search.png)
+2. 显示的结果：
 
-![](/assets/sigma-search.png)2. 
+
 
