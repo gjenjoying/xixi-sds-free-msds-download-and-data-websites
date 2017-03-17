@@ -11,5 +11,5 @@
 2. 在结果中选择与自己产品最接近的产品，点击SDS，如下图。
    ![](/assets/vwr-download.png)
 3. 下载SDS，如下图。 
-![](/assets/vwr-down2.png)
+   ![](/assets/vwr-down2.png)
 
