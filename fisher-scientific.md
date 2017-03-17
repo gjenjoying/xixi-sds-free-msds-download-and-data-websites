@@ -6,3 +6,7 @@
 
 下载方法：
 
+1.搜索，如下图。
+
+![](/assets/fisher-search.png)
+
