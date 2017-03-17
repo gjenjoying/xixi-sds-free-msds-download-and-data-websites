@@ -7,7 +7,9 @@
 下载方法：
 
 1. 搜索，如下图。
-![](/assets/vwr-search.png)
-2. 在结果中选择与自己产品最接近的产品，下载SDS。
-![](/assets/vwr-download.png)
+   ![](/assets/vwr-search.png)
+2. 在结果中选择与自己产品最接近的产品，点击SDS。
+   ![](/assets/vwr-download.png)
+
+
 
