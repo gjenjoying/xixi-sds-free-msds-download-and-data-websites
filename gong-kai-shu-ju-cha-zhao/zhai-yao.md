@@ -14,7 +14,7 @@
 
 | 名称 | 网址 | 备注 |
 | :--- | :--- | :--- |
-| PubChem | https://pubchem.ncbi.nlm.nih.gov/ |  |
+| PubChem | [https://pubchem.ncbi.nlm.nih.gov/](https://pubchem.ncbi.nlm.nih.gov/) | 美国卫生及人类服务部下的国立卫生研究院维护的网站， |
 
 
 
