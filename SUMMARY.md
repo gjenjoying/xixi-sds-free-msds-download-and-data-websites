@@ -6,6 +6,7 @@
 * [Safety Data Sheet Search](chapter1.md)
 * [SIGMA ALDRICH](sigma-aldrich.md)
 * [Fisher Scientific](fisher-scientific.md)
+* [VWR Scientific Products](vwr-scientific-products.md)
 
 ## 公开数据查找
 
