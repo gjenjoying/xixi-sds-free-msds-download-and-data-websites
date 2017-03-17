@@ -12,7 +12,7 @@
 
 | 名称 | 网址 | 备注 |
 | :--- | :--- | :--- |
-| Safety Data Sheet Search | [http://chemicalsafety.com/sds/](http://chemicalsafety.com/sds/) | 1.不用注册，免费使用；2.一键搜索SIGMA ALDRICH、ThermoFisher、POCH这几 |
+| Safety Data Sheet Search | [http://chemicalsafety.com/sds/](http://chemicalsafety.com/sds/) | 1.不用注册，免费使用；2.一键搜索SIGMA ALDRICH、ThermoFisher、POCH这些化学试剂网站的SDS，可直接下载。 |
 |  |  |  |
 
 
