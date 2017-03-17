@@ -6,5 +6,5 @@
 
 1. 右上角搜索框查询，如下图
 
-![](/assets/sigma-search.png)
+![](/assets/sigma-search.png)2. 
 
