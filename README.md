@@ -12,7 +12,7 @@
 
 | 名称 | 网址 | 备注 |
 | :--- | :--- | :--- |
-| Safety Data Sheet Search | [http://chemicalsafety.com/sds/](http://chemicalsafety.com/sds/) | 1.不用注册，免费使用；2.一键搜索SIGMA ALDRICH、ThermoFisher、Fisher Scientific、POCH、Science Lab、GFS Chemicals、Acros Organics、Alfa Aesar、Praxair、Air Liquide、EMD Millipore太丰富服化学试剂网站的SDS，可直接下载。 |
+| Safety Data Sheet Search | [http://chemicalsafety.com/sds/](http://chemicalsafety.com/sds/) | 1.不用注册，免费使用；2.一键搜索SIGMA ALDRICH、ThermoFisher、Fisher Scientific、POCH、Science Lab、GFS Chemicals、Acros Organics、Alfa Aesar、Praxair、Air Liquide、EMD Millipore等化学试剂网站的SDS，可直接下载。 |
 |  |  |  |
 
 
