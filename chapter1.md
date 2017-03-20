@@ -7,12 +7,9 @@
 下载方法：
 
 1. 搜索
-
 ![](/assets/sds-search.png)
-
 2. 结果中选择SDS
-
-![](/assets/sds-search2.png)3. 右下角下载SDS
-
+![](/assets/sds-search2.png)
+3. 右下角下载SDS
 ![](/assets/sds-search-download.png)
 
