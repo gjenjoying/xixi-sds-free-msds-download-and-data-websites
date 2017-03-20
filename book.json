@@ -1,6 +1,6 @@
 {
-    "title": "XiXi SDS - 使用说明",
-    "description" : "XiXi SDS，专为中国外贸公司打造。极简操作，合规格式，智能内容。",
+    "title": "XiXi SDS - MSDS免费下载网站及数据源",
+    "description" : "精选MSDS免费下载网站，使用攻略。并提供SDS制作所需要的数据源。",
     "author":"www.xixisys.com",
     "language": "zh-hans",
     "plugins": ["-search","search-pro","duoshuo","splitter","sharing","sectionx"],
