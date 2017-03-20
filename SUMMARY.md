@@ -12,6 +12,7 @@
 ## 公开数据查找
 
 * [摘要](gong-kai-shu-ju-cha-zhao/zhai-yao.md)
+* [详细使用说明](gong-kai-shu-ju-cha-zhao/xiang-xi-shi-yong-shuo-ming.md)
 
 ## 出口合规问题
 
