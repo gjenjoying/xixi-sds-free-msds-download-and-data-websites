@@ -3,7 +3,7 @@
     "description" : "精选MSDS免费下载网站，使用攻略。并提供SDS制作所需要的数据源。",
     "author":"www.xixisys.com",
     "language": "zh-hans",
-    "plugins": ["-search","search-pro","duoshuo","splitter","sharing","sectionx"],
+    "plugins": ["-search","search-pro","duoshuo","splitter","sharing"],
     "pluginsConfig": {
         "duoshuo": {
             "short_name": "xixisys",
