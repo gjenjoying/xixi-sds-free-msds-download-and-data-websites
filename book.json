@@ -1,0 +1,36 @@
+{
+    "title": "XiXi SDS - 使用说明",
+    "description" : "XiXi SDS，专为中国外贸公司打造。极简操作，合规格式，智能内容。",
+    "author":"www.xixisys.com",
+    "language": "zh-hans",
+    "plugins": ["-search","search-pro","duoshuo","splitter","sharing","sectionx"],
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "xixisys",
+             "theme": "default"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : [""]
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": false,
+            "google": false,
+            "all": [
+               "weibo","facebook", "google", "twitter"
+            ]
+        }
+
+               
+    },
+     "links": {
+        "sidebar": {
+            "www.xixisys.com": "http://www.xixisys.com"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
