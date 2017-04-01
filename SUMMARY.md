@@ -9,12 +9,7 @@
 * [VWR Scientific Products](vwr-scientific-products.md)
 * [如何判断SDS质量](ru-he-pan-duan-sds-zhi-liang.md)
 
-## 公开数据查找
+## 调查表填写服务
 
-* [摘要](gong-kai-shu-ju-cha-zhao/zhai-yao.md)
-* [详细使用说明](gong-kai-shu-ju-cha-zhao/xiang-xi-shi-yong-shuo-ming.md)
-
-## 出口合规问题
-
-* [免费协助 及 软件需求](chu-kou-he-gui-wen-ti/mian-fei-xie-zhu-ji-ruan-jian-xu-qiu.md)
+* [智能化 不止是填写](chu-kou-he-gui-wen-ti/mian-fei-xie-zhu-ji-ruan-jian-xu-qiu.md)
 
